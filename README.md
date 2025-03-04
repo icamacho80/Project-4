@@ -2,6 +2,29 @@
 
 Project4- Jennifer Ilyayeva, Idrees Andarr., Ingrid Camacho
 
+# Exploratory Data Analysis (EDA)
+State Distribution:
+- Pennsylvania (22.6%) and New York (21.8%) had the highest representation in the dataset. NJ & ML the 4th most populated accounts for 23 % of the sales. ​
+- Most Populated Estates have also the largest numbers of transactions​
+​- Tri state (NY, PA, VI ) which are the most populated, accounts for 62 % of the volume of sales​
+- By City the top 10 cities with the largest listing of properties are Philly, Agawarn, Baltimore, Charlotesville and Richmond
+
+Supply:
+- Per price the highest amount of houses listed are in the range of $200K to $400K
+- Supply drops almost to half for the next bucket $400K –$600K and then maintains for lower than $200K​
+- $1M -$2M supply  is higher than $800k - $1M​
+​
+Price Analysis: 
+- The District of Columbia holds the highest average price of the set, being significantly higher than Massachusetts 33%  ​
+​Pennsylvania holds the lowest average price of the NE​
+- Price per state has a high dispersion, especially in New York, Connecticut, New Jersey, Pennsylvania, and  Virginia​
+- Most of the prices range below $1MM. However, the District of Columbia sets prices way above the rest of the states.
+​
+Size and Price
+
+- Average price seems to have a direct relationship with the size of the property
+However, there is a dispersion of prices, especially in 1,000-3,000 sf; in these buckets, prices can be as high as the average price of 6,000 sf. ​
+- Prices can be impacted by area but there definitely can be other variables impacting them ​
 
 # Data Model Implementation :
 A Python script initializes, trains, and evaluates a model.
